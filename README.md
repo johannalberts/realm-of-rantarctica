@@ -1,6 +1,6 @@
 # Realm Of Rantarctica
 
-[The live site can be viewed here](https://wondrouswebworks.github.io/realm-of-rantarctica/)
+[The live site can be viewed here](https://johannalberts.github.io/realm-of-rantarctica/)
 
 Welcome to my project! Realm of Rantarctica is an interactive game based on the classic card game called **Top Trumps**.  I hope you enjoy reading about the project below.  Please feel free to contact me for any further information or to offer any suggestions. My contact details can be found on my github page.
 
@@ -335,3 +335,4 @@ Further error messages are logged to the console when a user hovers over element
 ## Disclaimer
 
 This site is intended for **educational purposes** only, and is not intended for use in any other capacity.
+
